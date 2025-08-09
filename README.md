@@ -1,12 +1,12 @@
 <!-- Typing animation headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=485&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilanjan+Sikdar!;Frontend+Dev+%F0%9F%92%BB;Game+Dev+Enthusiast+%F0%9F%8E%AE+%F0%9F%91%BE;Scroll+on%2C+friend+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=485&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilanjan+Sikdar!;Exploring+AI+ML+%F0%9F%92%BB;Game+Dev+Enthusiast+%F0%9F%8E%AE+%F0%9F%91%BE;Scroll+on%2C+friend+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 
 
 # 💫 About Me:
-Hey there! 👋 I'm a passionate developer exploring web development and data science. <br>Currently diving into new technologies and excited about open-source contributions. <br>Always learning, building, and experimenting with code. <br>Let's connect and create something amazing together! 🚀<br><br>🔗 Exploring | Coding | Contributing
+Hey there! 👋 I'm a passionate developer exploring web development and ML stuffs. <br>Currently diving into Game Development and excited about open-source contributions. <br>Always learning, building, and experimenting with code. <br>Let's connect and create something amazing together! 🚀<br><br>🔗 Exploring | Coding | Contributing
 
 
 ## 🌐 Socials:
