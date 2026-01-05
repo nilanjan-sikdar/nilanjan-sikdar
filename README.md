@@ -1,34 +1,137 @@
-<!-- Typing animation headline -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Nilanjan%20Sikdar&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Game+Development+Enthusiast+%F0%9F%8E%AE;Open+Source+Contributor+%F0%9F%9A%80;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&width=485&lines=Hi+%F0%9F%91%8B%2C+I'm+Nilanjan+Sikdar!;Exploring+AI+ML+%F0%9F%92%BB;Game+Dev+Enthusiast+%F0%9F%8E%AE+%F0%9F%91%BE;Scroll+on%2C+friend+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/nilanjan-sikdar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:cornergame061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=nilanjan-sikdar&label=Profile%20Views&color=brightgreen&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/nilanjan-sikdar?label=Followers&style=for-the-badge&color=blue"/>
 </p>
 
+---
 
+## 💫 About Me
 
-# 💫 About Me:
-Hey there! 👋 I'm a passionate developer exploring web development and ML stuffs. <br>Currently diving into Game Development and excited about open-source contributions. <br>Always learning, building, and experimenting with code. <br>Let's connect and create something amazing together! 🚀<br><br>🔗 Exploring | Coding | Contributing
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
+🎯 **Developer focused on AI/ML, Web, and Game Development**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cce_nilanjan_sikdar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/nilanjan-sikdar/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itz_nilanjan_sikdar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cornergame061@gmail.com) 
+🚀 **What I Do**
+- Explore **Artificial Intelligence & Machine Learning**
+- Build **games and interactive applications**
+- Contribute to **open-source projects**
+- Solve **DSA & algorithmic problems**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nilanjan-sikdar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nilanjan-sikdar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjan-sikdar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+💡 **Current Interests**
+- AI-powered applications
+- Game mechanics & simulations
+- Full-stack web development
+- Open-source collaboration
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nilanjan-sikdar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌱 **Currently Learning**
+- Advanced Machine Learning concepts  
+- Game engines & physics systems  
+- Scalable frontend architectures  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💬 **Ask me about**
+- Python • JavaScript • C/C++  
+- Web Development  
+- AI/ML basics  
+- Git & GitHub  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nilanjan-sikdar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+⚡ **Fun fact:** I enjoy debugging more than writing code 😄
+
+<br clear="both"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nilanjan-sikdar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nilanjan-sikdar&show_icons=true&theme=radical&hide_border=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilanjan-sikdar&theme=radical&hide_border=true" width="49%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilanjan-sikdar&layout=compact&theme=radical&hide_border=true" width="42%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilanjan-sikdar&theme=high-contrast&hide_border=true" width="56%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nilanjan-sikdar&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress"/>
+</p>
+
+### 🤖 AI / Data Science
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+</p>
+
+### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nilanjan-sikdar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/cce_nilanjan_sikdar">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://x.com/itz_nilanjan_sikdar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="mailto:cornergame061@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  ⭐ From **nilanjan-sikdar** with ❤️
+</div>
