@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=AI+%26+ML+Explorer+%F0%9F%A4%96;Game+Development+Enthusiast+%F0%9F%8E%AE;Open+Source+Contributor+%F0%9F%9A%80;Turning+Ideas+into+Code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Web3+Developer+%F0%9F%94%97;Full+Stack+Web+Developer+%F0%9F%9A%80;Game+Development+Enthusiast+%F0%9F%8E%AE;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,38 +19,79 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me (Recruiter Friendly)
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-🎯 **Developer focused on AI/ML, Web, and Game Development**
+🎯 **Aspiring Software Engineer | Web3 & Full-Stack Developer**
 
-🚀 **What I Do**
-- Explore **Artificial Intelligence & Machine Learning**
-- Build **games and interactive applications**
-- Contribute to **open-source projects**
-- Solve **DSA & algorithmic problems**
+I’m a **highly motivated developer** with hands-on experience in **Web Development, Web3 fundamentals, and Game Development**, actively seeking **internship and entry-level roles**.
 
-💡 **Current Interests**
-- AI-powered applications
-- Game mechanics & simulations
-- Full-stack web development
-- Open-source collaboration
+🚀 **What I Bring**
+- Strong fundamentals in **DSA & problem solving**
+- Experience building **real-world web projects**
+- Understanding of **blockchain & Web3 concepts**
+- Active **open-source contributor**
+- Ability to learn fast and adapt to new technologies
 
-🌱 **Currently Learning**
-- Advanced Machine Learning concepts  
-- Game engines & physics systems  
-- Scalable frontend architectures  
+🌱 **Currently Exploring**
+- Web3 & blockchain development  
+- Smart contracts & decentralized applications  
+- Advanced frontend architecture  
 
 💬 **Ask me about**
-- Python • JavaScript • C/C++  
-- Web Development  
-- AI/ML basics  
-- Git & GitHub  
+- Web Development (HTML, CSS, JS)
+- Web3 basics & blockchain concepts
+- Git & GitHub
+- Competitive programming fundamentals
 
-⚡ **Fun fact:** I enjoy debugging more than writing code 😄
+📧 **Open for:** Internships • Open-source collaboration • Learning opportunities  
+
+⚡ **Fun fact:** I enjoy fixing bugs more than writing new features 😄
 
 <br clear="both"/>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+### 🎮 Assassins Greed (Game Development Project)
+[![GitHub](https://img.shields.io/badge/💻_Source_Code-Repository-black?style=for-the-badge&logo=github)](https://github.com/nilanjan-sikdar)
+
+</div>
+
+**A strategic game development project focused on gameplay mechanics, player progression, and performance optimization.**
+
+### ✨ Highlights
+| Feature | Description |
+|-------|-------------|
+| 🕹️ Gameplay | Designed player logic, scoring, and progression systems |
+| ⚙️ Optimization | Efficient game loops and logic handling |
+| 🎨 UI | Interactive and responsive game interface |
+| 🧠 Logic | Emphasis on problem-solving and game state management |
+
+**Tech Used:** C++ / C# • Game Logic • Algorithms
+
+---
+
+<div align="center">
+
+### 🌐 Web3 Learning Projects
+[![GitHub](https://img.shields.io/badge/💻_Repositories-GitHub-black?style=for-the-badge&logo=github)](https://github.com/nilanjan-sikdar)
+
+</div>
+
+**A collection of Web3-focused experiments and learning projects covering blockchain concepts and decentralized systems.**
+
+### ✨ Highlights
+- Blockchain fundamentals & decentralization
+- Smart contract concepts (learning phase)
+- Web + blockchain integration basics
+- Wallet & transaction flow understanding
+
+**Tech Used:** JavaScript • Web Fundamentals • Blockchain Concepts
 
 ---
 
@@ -83,16 +124,15 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Web3
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress"/>
 </p>
 
-### 🤖 AI / Data Science
+### 📊 Data & Visualization
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
